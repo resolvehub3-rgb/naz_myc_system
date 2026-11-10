@@ -1,0 +1,6 @@
+{
+  "name": "Methodist Church Ghana – MYC Attendance System",
+  "description": "Digital Attendance Management, Printable QR Membership Cards, and Smartphone Attendance Scanner for Methodist Church Ghana - MYC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
